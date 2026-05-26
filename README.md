@@ -1,4 +1,2 @@
 # demorepo
-practice of git and github
-iam adding the text to the readme file 
-hey iam the second the commit 
+practicng of the git and github
